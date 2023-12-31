@@ -8,7 +8,8 @@ Welcome to the [weather-app] - your one-stop solution for checking the current w
 
 ## Demo
 
-Check out our live demo [here]([Demo Link]) to experience the simplicity and effectiveness of [weather].
+Check out our live demo [here]([https://prashant2002pd.github.io/weather-app/]) to experience the simplicity and effectiveness of [weather].
+![Screenshot](images/demo.png)
 
 ## Features
 
