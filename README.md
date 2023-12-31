@@ -4,11 +4,11 @@
 
 ## Overview
 
-Welcome to the [weather-app] - your one-stop solution for checking the current weather conditions of any city. This user-friendly website provides real-time weather updates, detailed forecasts, and a seamless experience.
+Welcome to the weather-app - your one-stop solution for checking the current weather conditions of any city. This user-friendly website provides real-time weather updates, detailed forecasts, and a seamless experience.
 
 ## Demo
 
-Check out our live demo [here]([https://prashant2002pd.github.io/weather-app/]) to experience the simplicity and effectiveness of [weather].
+Check out our live demo [here](https://prashant2002pd.github.io/weather-app/) to experience the simplicity and effectiveness of [weather-app].
 ![Screenshot](images/demo.png)
 
 ## Features
